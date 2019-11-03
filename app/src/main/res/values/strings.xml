@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="notification_channel_name">159</string>
+    <string name="notification_channel_id">159519</string>
+</resources>
